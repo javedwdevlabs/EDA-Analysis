@@ -21,7 +21,7 @@ Through this analysis, we solved the following core business questions:
 
 ---
 
-### 🛠️ Tech Stack & Skills Demonstrated
+###  Tech Stack & Skills Demonstrated
 * **Language:** Python 
 * **Data Manipulation:** Pandas, NumPy 
 * **Data Visualization:** Seaborn, Matplotlib 
@@ -33,4 +33,14 @@ Through this analysis, we solved the following core business questions:
 * `UBER/`
   *  `Uber_Data_Analysis.ipynb` — Full Python Code & Visualizations
   *  `uberdrives.csv` — Dataset used for analysis
+
+
+    ---
+
+###  Connect with Me
+Let's connect and talk about Data Science, Python, or potential opportunities!
+
+* **LinkedIn:** [ Javed Khan](https://www.linkedin.com/in/javed-khan-659a1440b/)
+* **Instagram:** [ @javed.wdevlabs](https://www.instagram.com/javed.wdevlabs/)
+
 
